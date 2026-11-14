@@ -110,23 +110,3 @@ The recommendation function returns the top five similar products for a selected
 
 This project demonstrates how data analysis and unsupervised machine learning can help businesses understand customer purchasing behavior, identify customer segments, recommend similar products, and develop effective marketing strategies.
 
-## Version Control and Rollback
-
-This project uses Git and GitHub for version control.
-
-### Version History
-- Git commit history tracks project changes.
-- Each commit represents a saved version of the project.
-- GitHub Desktop provides access to previous commits.
-
-### Rollback Procedure
-If a future code update causes an issue:
-
-1. Open the repository in GitHub Desktop.
-2. Navigate to the History tab.
-3. Identify the last known working commit.
-4. Review the changes before restoring an earlier version.
-5. Use the appropriate Git restore or revert operation.
-6. Test the project after restoration.
-
-**Rollback status:** Version history is available. A rollback procedure is documented, but an actual rollback test has not yet been performed.
